@@ -8,10 +8,11 @@
     * Body Parser
     * Cookie Parser
     * Morgan
-    * session
+    * bcrypt
+    * express-session
     * Passport
-    * Passport express
-    * 
+    * Passport-local
+    * dotenv
 2.  WHAT ARE PROMISES
 3.  WHY DO WE USE EXPRESS
 4.  AJAX & API'S
